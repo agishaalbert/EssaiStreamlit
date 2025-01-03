@@ -7,4 +7,4 @@ al =st.button("Cliquez ici")
 
 if al:
     st.write('Je suis etudiant et la valeur saisi estp')
-    st.write("J'ai", ab)
+    st.write("J'ai autant", ab)
